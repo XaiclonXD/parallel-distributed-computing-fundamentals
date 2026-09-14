@@ -1,0 +1,16 @@
+# Binarios y objetos compilados de C
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+a.out
+
+# Carpetas de salida de compilacion
+bin/
+build/
+output/
