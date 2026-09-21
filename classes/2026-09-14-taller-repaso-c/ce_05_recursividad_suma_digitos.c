@@ -1,6 +1,6 @@
 /**
     * @file ce_05_recursividad_suma_digitos.c
-    * @brief Funcion recursiva que suma los digitos de un numero
+    * @brief Recursive function that sums the digits of a number
     * @author Jhoan Araque
     * @date 2026-09-14
 */

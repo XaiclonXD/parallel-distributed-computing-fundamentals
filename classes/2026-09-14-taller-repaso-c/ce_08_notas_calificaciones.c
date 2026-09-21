@@ -1,6 +1,6 @@
 /**
     * @file ce_08_notas_calificaciones.c
-    * @brief Asigna una calificacion en letras a partir de una nota numerica
+    * @brief Assigns a letter grade based on a numeric score
     * @author Jhoan Araque
     * @date 2026-09-14
 */

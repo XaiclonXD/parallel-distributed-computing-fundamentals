@@ -1,6 +1,6 @@
 /**
     * @file omp_02_primes_number_parallel.c
-    * @brief Cuenta numeros primos hasta N en paralelo con OpenMP, midiendo el tiempo de ejecucion
+    * @brief Counts prime numbers up to N in parallel with OpenMP, measuring execution time
     * @author Jhoan Araque
     * @date 2026-09-20
 */

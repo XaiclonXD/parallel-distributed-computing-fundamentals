@@ -1,6 +1,6 @@
 /**
     * @file ce_04_factorial_paridad.c
-    * @brief Calcula el factorial de un numero y verifica si es par o impar
+    * @brief Calculates the factorial of a number and checks whether it is even or odd
     * @author Jhoan Araque
     * @date 2026-09-14
 */

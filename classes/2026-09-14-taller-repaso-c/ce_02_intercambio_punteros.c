@@ -1,6 +1,6 @@
 /**
     * @file ce_02_intercambio_punteros.c
-    * @brief Intercambia los valores de dos enteros usando punteros
+    * @brief Swaps the values of two integers using pointers
     * @author Jhoan Araque
     * @date 2026-09-14
 */

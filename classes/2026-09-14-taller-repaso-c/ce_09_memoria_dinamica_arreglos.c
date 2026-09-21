@@ -1,6 +1,6 @@
 /**
     * @file ce_09_memoria_dinamica_arreglos.c
-    * @brief Crea un arreglo dinamico, lo llena con valores del usuario y calcula su suma
+    * @brief Creates a dynamic array, fills it with user input, and calculates its sum
     * @author Jhoan Araque
     * @date 2026-09-14
 */

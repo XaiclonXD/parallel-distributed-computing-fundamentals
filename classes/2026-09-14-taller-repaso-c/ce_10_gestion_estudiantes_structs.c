@@ -1,6 +1,6 @@
 /**
     * @file ce_10_gestion_estudiantes_structs.c
-    * @brief Sistema de gestion de estudiantes usando estructuras, punteros y arreglos dinamicos
+    * @brief Student management system using structs, pointers, and dynamic arrays
     * @author Jhoan Araque
     * @date 2026-09-14
 */

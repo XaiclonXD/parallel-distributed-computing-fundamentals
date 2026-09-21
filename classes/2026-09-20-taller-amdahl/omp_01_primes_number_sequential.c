@@ -1,6 +1,6 @@
 /**
     * @file omp_01_primes_number_sequential.c
-    * @brief Cuenta numeros primos hasta N de forma secuencial, midiendo el tiempo de ejecucion
+    * @brief Counts prime numbers up to N sequentially, measuring execution time
     * @author Jhoan Araque
     * @date 2026-09-20
 */

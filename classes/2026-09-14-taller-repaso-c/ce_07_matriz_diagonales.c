@@ -1,6 +1,6 @@
 /**
     * @file ce_07_matriz_diagonales.c
-    * @brief Crea una matriz cuadrada con numeros aleatorios y compara sus diagonales
+    * @brief Creates a square matrix with random numbers and compares its diagonals
     * @author Jhoan Araque
     * @date 2026-09-14
 */

@@ -1,6 +1,6 @@
 /**
     * @file ce_03_mayor_menor_ternario.c
-    * @brief Determina el mayor y el menor de tres numeros usando operadores ternarios
+    * @brief Determines the largest and smallest of three numbers using ternary operators
     * @author Jhoan Araque
     * @date 2026-09-14
 */

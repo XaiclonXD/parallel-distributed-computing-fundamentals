@@ -1,6 +1,6 @@
 /**
     * @file ce_01_primos_arreglo.c
-    * @brief Genera un arreglo de numeros aleatorios y cuenta cuantos son primos
+    * @brief Generates an array of random numbers and counts how many are prime
     * @author Jhoan Araque
     * @date 2026-09-14
 */

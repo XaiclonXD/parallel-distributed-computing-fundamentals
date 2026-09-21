@@ -1,6 +1,6 @@
 /**
     * @file ce_06_invertir_arreglo_punteros.c
-    * @brief Invierte los elementos de un arreglo usando aritmetica de punteros
+    * @brief Reverses the elements of an array using pointer arithmetic
     * @author Jhoan Araque
     * @date 2026-09-14
 */
