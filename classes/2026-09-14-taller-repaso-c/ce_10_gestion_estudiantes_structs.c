@@ -1,8 +1,9 @@
-/*
- * Ejercicio 10: Gestion de Estudiantes con Structs
- * Sistema de gestion de estudiantes usando estructuras, punteros
- * y arreglos dinamicos.
- */
+/**
+    * @file ce_10_gestion_estudiantes_structs.c
+    * @brief Sistema de gestion de estudiantes usando estructuras, punteros y arreglos dinamicos
+    * @author Jhoan Araque
+    * @date 2026-09-14
+*/
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,7 +1,9 @@
-/*
- * Ejercicio 8: Notas y Calificaciones
- * Asigna una calificacion en letras a partir de una nota numerica.
- */
+/**
+    * @file ce_08_notas_calificaciones.c
+    * @brief Asigna una calificacion en letras a partir de una nota numerica
+    * @author Jhoan Araque
+    * @date 2026-09-14
+*/
 #include <stdio.h>
 
 char calificar(int nota) {

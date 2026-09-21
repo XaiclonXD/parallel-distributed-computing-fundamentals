@@ -1,7 +1,9 @@
-/*
- * Ejercicio 1: Numeros Primos en un Arreglo
- * Genera un arreglo de numeros aleatorios y cuenta cuantos son primos.
- */
+/**
+    * @file ce_01_primos_arreglo.c
+    * @brief Genera un arreglo de numeros aleatorios y cuenta cuantos son primos
+    * @author Jhoan Araque
+    * @date 2026-09-14
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

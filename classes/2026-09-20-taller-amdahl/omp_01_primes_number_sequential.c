@@ -1,3 +1,9 @@
+/**
+    * @file omp_01_primes_number_sequential.c
+    * @brief Cuenta numeros primos hasta N de forma secuencial, midiendo el tiempo de ejecucion
+    * @author Jhoan Araque
+    * @date 2026-09-20
+*/
 #include <stdio.h>
 #include <math.h>
 #include <omp.h>

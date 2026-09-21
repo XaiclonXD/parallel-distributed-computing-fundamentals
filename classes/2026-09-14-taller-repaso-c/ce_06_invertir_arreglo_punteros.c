@@ -1,7 +1,9 @@
-/*
- * Ejercicio 6: Invertir un Arreglo con Punteros
- * Invierte los elementos de un arreglo usando aritmetica de punteros.
- */
+/**
+    * @file ce_06_invertir_arreglo_punteros.c
+    * @brief Invierte los elementos de un arreglo usando aritmetica de punteros
+    * @author Jhoan Araque
+    * @date 2026-09-14
+*/
 #include <stdio.h>
 
 #define MAX_TAM 100

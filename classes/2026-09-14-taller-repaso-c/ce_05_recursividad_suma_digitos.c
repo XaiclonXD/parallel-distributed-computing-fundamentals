@@ -1,7 +1,9 @@
-/*
- * Ejercicio 5: Recursividad con Suma de Digitos
- * Funcion recursiva que suma los digitos de un numero.
- */
+/**
+    * @file ce_05_recursividad_suma_digitos.c
+    * @brief Funcion recursiva que suma los digitos de un numero
+    * @author Jhoan Araque
+    * @date 2026-09-14
+*/
 #include <stdio.h>
 
 int sumaDigitos(int n) {

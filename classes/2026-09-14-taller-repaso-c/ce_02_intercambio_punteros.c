@@ -1,7 +1,9 @@
-/*
- * Ejercicio 2: Intercambio de Valores con Punteros
- * Intercambia los valores de dos enteros usando punteros.
- */
+/**
+    * @file ce_02_intercambio_punteros.c
+    * @brief Intercambia los valores de dos enteros usando punteros
+    * @author Jhoan Araque
+    * @date 2026-09-14
+*/
 #include <stdio.h>
 
 void intercambiar(int *a, int *b) {

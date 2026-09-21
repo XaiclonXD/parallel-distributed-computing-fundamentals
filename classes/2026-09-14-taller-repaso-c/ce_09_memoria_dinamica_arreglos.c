@@ -1,7 +1,9 @@
-/*
- * Ejercicio 9: Memoria Dinamica con Arreglos
- * Crea un arreglo dinamico, lo llena con valores del usuario y calcula su suma.
- */
+/**
+    * @file ce_09_memoria_dinamica_arreglos.c
+    * @brief Crea un arreglo dinamico, lo llena con valores del usuario y calcula su suma
+    * @author Jhoan Araque
+    * @date 2026-09-14
+*/
 #include <stdio.h>
 #include <stdlib.h>
 

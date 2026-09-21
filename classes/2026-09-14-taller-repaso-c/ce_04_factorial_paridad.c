@@ -1,7 +1,9 @@
-/*
- * Ejercicio 4: Factorial y Paridad
- * Calcula el factorial de un numero y verifica si es par o impar.
- */
+/**
+    * @file ce_04_factorial_paridad.c
+    * @brief Calcula el factorial de un numero y verifica si es par o impar
+    * @author Jhoan Araque
+    * @date 2026-09-14
+*/
 #include <stdio.h>
 
 long long factorialFor(int n) {

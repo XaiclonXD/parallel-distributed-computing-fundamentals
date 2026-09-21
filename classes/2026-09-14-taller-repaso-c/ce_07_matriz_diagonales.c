@@ -1,7 +1,9 @@
-/*
- * Ejercicio 7: Matriz y Diagonales
- * Crea una matriz cuadrada con numeros aleatorios y compara sus diagonales.
- */
+/**
+    * @file ce_07_matriz_diagonales.c
+    * @brief Crea una matriz cuadrada con numeros aleatorios y compara sus diagonales
+    * @author Jhoan Araque
+    * @date 2026-09-14
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

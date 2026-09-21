@@ -1,7 +1,9 @@
-/*
- * Ejercicio 3: Mayor y Menor con Operadores Ternarios
- * Determina el mayor y el menor de tres numeros usando operadores ternarios.
- */
+/**
+    * @file ce_03_mayor_menor_ternario.c
+    * @brief Determina el mayor y el menor de tres numeros usando operadores ternarios
+    * @author Jhoan Araque
+    * @date 2026-09-14
+*/
 #include <stdio.h>
 
 int mayor(int a, int b, int c) {
